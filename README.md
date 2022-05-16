@@ -1,4 +1,6 @@
-# Don't Forget
+# ifntus-link
+
+This application was made for the purpose of sharing a link with someone with a specific purpose and purpose.
 
 ![Preview](/public/preview.png)
 

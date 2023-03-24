@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import ParticlesBg from "particles-bg";
 import './App.css';
 import { BsInstagram } from "react-icons/bs";
 import { BsFacebook } from "react-icons/bs";
@@ -92,7 +91,7 @@ function App() {
 					</div>
 				</div>
 			</div>
-			<ParticlesBg type="random" bg={true} />
+			{/* <ParticlesBg type="random" bg={true} /> */}
 		</div>
 	);
 }
